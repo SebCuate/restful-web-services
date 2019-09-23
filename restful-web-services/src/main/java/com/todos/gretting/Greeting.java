@@ -1,4 +1,4 @@
-package classes;
+package com.todos.gretting;
 
 public class Greeting {
 	

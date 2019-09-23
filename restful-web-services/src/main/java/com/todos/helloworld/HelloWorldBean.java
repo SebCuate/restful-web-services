@@ -1,4 +1,4 @@
-package classes;
+package com.todos.helloworld;
 
 public class HelloWorldBean {
 	

@@ -43,13 +43,12 @@ public class TodoHarcodedService {
 	
 	public Todo deleteById(long id) {
 		Todo todo = findById(id);
-		todos.remove(todo);
 		return todo;
 	}
-
-	public Todo findById(long id) {
-		// TODO Auto-generated method stub
-		return null;
+	
+	private Todo findById(long id) {
+		return get
+		
 	}
 	
 }

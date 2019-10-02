@@ -47,7 +47,7 @@ public class TodoHarcodedService {
 		return todo;
 	}
 
-	public Todo findById(long id) {
+	private Todo findById(long id) {
 		// TODO Auto-generated method stub
 		return null;
 	}
